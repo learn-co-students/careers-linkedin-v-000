@@ -86,17 +86,45 @@ Another tip to follow, especially when connecting with people you just met, is t
 
 However, if you'd like to make a cold outreach or connect with someone you never “met”, here’s a few ways to go about it:
 
-1.**Pay them a compliment.** Maybe you read their blog and love it. If that’s the case, let them know this in your invitation message. Say something like, “Hey! I follow your blog and love what you share. Wanted to stay up to date with you on LinkedIn as well.”
-2.**Identify a mutual connection.** And use that shared connection as your "in."
-3. **Note a common interest.** Perhaps you’re both members of a certain LinkedIn group, or you both volunteer with same nonprofit. 
+1. **Pay them a compliment.** Maybe you read their blog and love it. If that’s the case, let them know this in your invitation message. Say something like, “Hey! I follow your blog and love what you share. Wanted to stay up to date with you on LinkedIn as well.”
+
+2. **Identify a mutual connection.** And use that shared connection as your "in."
+
+3. **Note a common interest.** Perhaps you’re both members of a certain LinkedIn group, or you both volunteer with the same nonprofit. 
 
 The point is: whenever connecting with someone on LinkedIn, make sure you give them a reason *why* they should accept your invitation. If they are unsure who you are, and your invitation message is blank, the chances of them connecting with you is slim to none. Especially for influencers who are bombarded with invites everyday, you want to make sure yours stands out from the rest. 
 
-##Conclusion 
+## Wrapping Up 
 
 LinkedIn is *the* social media network for professionals. It’s paramount that you have a profile on the platform. Otherwise, you’ll look like a recluse in the eyes of hiring managers.
 
 LinkedIn has many features like the ability to apply for jobs, join groups, message others, and more. While you don’t have to take advantage of all LinkedIn has to offer, at least have a profile that is filled out and up-to-date. A polished LinkedIn presence can take you a long way. 
 
+## Assignment- LinkedIn
+
+In this assignment, create a new Google Doc. Remember to title it ""Your Name" + LinkedIn"
+
+1. Link to your LinkedIn url. Make sure that you've created a custom profile URL.
+2. Make sure that your profile covers all the points that were addressed in this email
+3. Then in your Google doc, answer the following questions:  
+   - What makes your summary both appealing and approachable to potential employers and connections that view your profile? 
+   
+   - Write a sample custom message you would send when connecting with someone you either just met at an event or with whom you have a mutual connection or shared interest. 
+
+**Submit** this assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment. 
+
+In this case, your email subject line will be “”Your Name” + LinkedIn”
+
+In the body of your email again include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url link to this specific google doc
+
+Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include your LinkedIn profile url. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-linkedin'>Careers LinkedIn </a> on Learn.co and start learning to code for free.</p>
