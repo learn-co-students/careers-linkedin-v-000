@@ -111,7 +111,7 @@ In this assignment, create a new Google Doc. Remember to title it ""Your Name" +
    
    - Write a sample custom message you would send when connecting with someone you either just met at an event or with whom you have a mutual connection or shared interest. 
 
-**Submit** this assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment. 
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
 In this case, your email subject line will be “”Your Name” + LinkedIn”
 
