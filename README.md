@@ -30,11 +30,12 @@ So, having a complete profile is important. And here is what you need to do to a
 
 1. A profile photo
 2. Include your industry and location 
-3. Have an up-to-date current position listed- with a description
-4. Also include two previous positions
-5. Your skills (with a minimum of 3) 
-6. Education 
-7. And at least 50 connections
+3. Have an up-to-date current position listed, with a description (indicate that you are a full-time student of web development if that is the case) 
+4. A summary section that describes a bit about your past and how you discovered web development. 
+5. At least two previous positions
+6. Your skills (with a minimum of 3) 
+7. Education 
+8. And at least 50 connections
 
 ## Key LinkedIn Components You Need to Know About
 
@@ -102,18 +103,21 @@ LinkedIn has many features like the ability to apply for jobs, join groups, mess
 
 ## Assignment- LinkedIn
 
-In this assignment, create a new Google Doc. Remember to title it ""Your Name" + LinkedIn"
+In this assignment, create a new Google Doc. Remember to title it ""Your Name" + "LinkedIn"
 
-1. Link to your LinkedIn url. Make sure that you've created a custom profile URL.
-2. Make sure that your profile covers all the points that were addressed in this email
-3. Then in your Google doc, answer the following questions:  
-   - What makes your summary both appealing and approachable to potential employers and connections that view your profile? 
-   
-   - Write a sample custom message you would send when connecting with someone you either just met at an event or with whom you have a mutual connection or shared interest. 
+Paste the url of your LinkedIn profile. Make sure that you've created a custom profile URL. Below that, answer the following questions about your profile so that you and your coach can work on making the necessary improvements:
+
+1. Is my profile photo professional and welcoming?
+2. Have I listed a headline, industry, and location?
+3. If an outsider were to read my summary, what would that person think about me?  
+4. How detailed are my past jobs? Do they accurately represent my experience?
+5. How easy is it for a person interested in my profile to contact me?
+6. Are my privacy settings set such that my profile is publically searchable?
+
 
 **Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
-In this case, your email subject line will be “”Your Name” + LinkedIn”
+In this case, your email subject line will be “Your Name” + "LinkedIn”
 
 In the body of your email again include:
 
