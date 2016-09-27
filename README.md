@@ -77,7 +77,7 @@ When connecting with people on LinkedIn, you want to keep it personal. Think of 
 
 Be careful about how many invitations you send out and to whom. If enough people ignore your invitation or mark that they don’t know you, LinkedIn may prevent you from sending out invitations. Yikes! 
 
-Another tip to follow, especially when connecting with people you just met, is to add a custom message to the invitation. Something like this one below: 
+Another tip to follow, especially when connecting with people you just met, is to add a custom message to the invitation. **Never use the default message that pops up when you're connecting with someone.** Something like this below is a good custom message. 
 
   *Hey Brad,*
   
@@ -101,7 +101,7 @@ LinkedIn is *the* social media network for professionals. It’s paramount that 
 
 LinkedIn has many features like the ability to apply for jobs, join groups, message others, and more. While you don’t have to take advantage of all LinkedIn has to offer, at least have a profile that is filled out and up-to-date. A polished LinkedIn presence can take you a long way. 
 
-## Assignment- LinkedIn
+## If You Have a Premium Account:  Assignment- LinkedIn
 
 In this assignment, create a new Google Doc. Remember to title it ""Your Name" + "LinkedIn"
 
