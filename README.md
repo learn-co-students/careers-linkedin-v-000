@@ -115,20 +115,3 @@ Paste the url of your LinkedIn profile. Make sure that you've created a custom p
 6. Are my privacy settings set such that my profile is publically searchable?
 
 
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-In this case, your email subject line will be “Your Name” + "LinkedIn”
-
-In the body of your email again include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url link to this specific google doc
-
-Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include your LinkedIn profile url. 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-linkedin'>Careers LinkedIn </a> on Learn.co and start learning to code for free.</p>
