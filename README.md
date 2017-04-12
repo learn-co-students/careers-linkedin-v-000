@@ -100,18 +100,3 @@ The point is: whenever connecting with someone on LinkedIn, make sure you give t
 LinkedIn is *the* social media network for professionals. It’s paramount that you have a profile on the platform. Otherwise, you’ll look like a recluse in the eyes of hiring managers.
 
 LinkedIn has many features like the ability to apply for jobs, join groups, message others, and more. While you don’t have to take advantage of all LinkedIn has to offer, at least have a profile that is filled out and up-to-date. A polished LinkedIn presence can take you a long way. 
-
-## If You Have a Premium Account:  Assignment- LinkedIn
-
-In this assignment, create a new Google Doc. Remember to title it ""Your Name" + "LinkedIn"
-
-Paste the url of your LinkedIn profile. Make sure that you've created a custom profile URL. Below that, answer the following questions about your profile so that you and your coach can work on making the necessary improvements:
-
-1. Is my profile photo professional and welcoming?
-2. Have I listed a headline, industry, and location?
-3. If an outsider were to read my summary, what would that person think about me?  
-4. How detailed are my past jobs? Do they accurately represent my experience?
-5. How easy is it for a person interested in my profile to contact me?
-6. Are my privacy settings set such that my profile is publically searchable?
-
-
