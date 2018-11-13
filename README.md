@@ -20,11 +20,11 @@ LinkedIn also serves as an effective research tool. With LinkedIn you can resear
 
 ### Job Opportunities
 
-Unlike any other social media network, LinkedIn has a whole component on the platform where companies can post [job openings](https://www.linkedin.com/job/home). And you can apply to them—without having to leave LinkedIn. LinkedIn can even email notifications letting you know when openings are posted in your area where you have a skill-match. 
+Unlike any other social media network, LinkedIn has a whole component on the platform where companies can post [job openings](https://www.linkedin.com/jobs/). And you can apply to them—without having to leave LinkedIn. LinkedIn can even email notifications letting you know when openings are posted in your area where you have a skill-match. 
 
 ## A Complete Profile Matters
 
-Did you know that a person with a complete LinkedIn profile (scoring 100%, or an “all-star”) is [40 times](https://www.linkedin.com/static?key=pop%2Fpop_more_profile_completeness) more likely to receive opportunities through the platform? This is because LinkedIn will rank complete profiles higher in their internal search than incomplete. Meaning if a recruiter is looking for a “full-stack developer” in Philadelphia, you’ll show up higher in the results than your peers if your profile is complete, but theirs is not. Even if your skills and experience are comparable. 
+A person with a complete LinkedIn profile (scoring 100%, or an “all-star”) is 40 times more likely to receive opportunities through the platform. This is because LinkedIn will rank complete profiles higher in their internal search than incomplete. Meaning if a recruiter is looking for a “full-stack developer” in Philadelphia, you’ll show up higher in the results than your peers if your profile is complete, but theirs is not. Even if your skills and experience are comparable. 
 
 So, having a complete profile is important. And here is what you need to do to achieve a completed profile:  
 
