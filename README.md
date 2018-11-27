@@ -30,12 +30,14 @@ So, having a complete profile is important. And here is what you need to do to a
 
 1. A profile photo
 2. Include your industry and location 
-3. Have an up-to-date current position listed, with a description (indicate that you are a full-time student of web development if that is the case) 
-4. A summary section that describes a bit about your past and how you discovered web development. 
-5. At least two previous positions
-6. Your skills (with a minimum of 3) 
-7. Education 
-8. And at least 50 connections
+3. Have an up-to-date headline listed, with keywords that will help recruiters find you
+4. Have an up-to-date current position listed, with a description (indicate that you are a full-time *student* of web development if that is the case) 
+5. A summary section that describes a bit about your past and how you discovered web development. 
+6. At least two previous positions (with an impact/achievement-focused description of your responsibilities, just like on your resume)
+7. Your skills (with a minimum of 3) 
+8. Education 
+9. At least 50 connections
+10. Links to technical projects
 
 ## Key LinkedIn Components You Need to Know About
 
@@ -49,27 +51,30 @@ Here are a few things you want to avoid in your LinkedIn photo.
 * You out on the town in Vegas 
 
 ![Image](https://s3.amazonaws.com/learn-verified/CareersCurriculumLinkedInPics.jpg)
-Courtesy of [Sandy Jones-Kaminski](https://www.linkedin.com/pulse/what-constitutes-all-star-linkedin-profile-sandy-jones-kaminski?trk=mp-reader-card)
+*Courtesy of [Sandy Jones-Kaminski](https://www.linkedin.com/pulse/what-constitutes-all-star-linkedin-profile-sandy-jones-kaminski?trk=mp-reader-card)*
 
 The idea is to keep your LinkedIn photo identifiable and professional. Also, to come across as friendly and easy-to-work with. (No scowling!)  
 
 You don’t have to invest hundreds in a professional photographer to get a polished photo. (However, if you do have the funds, it’s certainly a worthwhile investment.) Many have a friend (or two) with a photography hobby - and they’re the perfect people to ask. If you’re unable to find a friend with a nice camera, you can always use your smartphone. Learn some [smartphone portrait pro-tips here](http://www.sitepoint.com/faking-pro-portraits-phone-camera/). Basically, you want to be aware of lighting and the background. 
 
-**Professional Headline:** By default, LinkedIn will use your first job title from your Experience section as your professional headline which appears right under your name at the top. We suggest you go into “Edit Profile” mode and change it to something that entices people to read your profile. While you’re still in school, you can put your headline as “Student in full-stack web development” or “Studying full-stack Web Development @ Flatiron School”. Be mindful that once your headline says you are a developer, you’re more likely to get pinged by recruiters, and you want to wait until you’re really ready before you make that your headline.
+**Professional Headline:** By default, LinkedIn will use your first job title from your Experience section as your professional headline which appears right under your name at the top. Since this is likely totally unrelated to your new career pursuit as a developer, we suggest you go into “Edit Profile” mode and change your Headline to something that not only entices people to read your profile, but that also optimizes the visibility and findability of your profile by recruiters who are searching for candidates with particular keywords in their profile, such as *Full Stack Web Developer*. While you’re still in school, you can put your headline as “Student in full-stack web development” or “Studying full-stack Web Development @ Flatiron School”. Be mindful that once your headline says you are a developer, you’re more likely to get pinged by recruiters, and you want to wait until you’re really ready before you make that your headline. Once you graduate you will want to update your Headline to *Full Stack Web Developer* (or something related).
 
 **A Custom Profile URL:** LinkedIn allows you to make a custom URL for your profile. Usually it will look something like this: https://www.linkedin.com/in/yourname You can customize yours in the “Edit profile” section. A custom URL looks more professional and adds legitimacy. 
 
 **Privacy Settings:** If your privacy settings are too tight, hiring managers won’t be able to find you on LinkedIn. If you’re actively looking for a job, you want to make sure all of your information can be viewed by the “public”. (The only exception would be for someone who cannot be searchable online for their own safety—like a survivor of domestic violence.) You can adjust what is shown to the public under the “Privacy & Settings” section. Also, make sure to include your email address in your summary, contact information, and advice for contacting sections. This way, it makes it easier for people to get in touch with you. 
 
-**Contact Info:** You want people to be able to easily get in touch with you. Fill out the Contact Information (it’s at the bottom of your main information box where you will see “Contact Info”) Populate these fields with your email, phone and link to a blog and portfolio if you have one. Another place to put all your contact info is in the “Advice For Contacting” section. 
+**Contact Info:** You want people to be able to easily get in touch with you. Fill out the Contact Information (it’s at the bottom of your main information box where you will see “Contact Info”) Populate these fields with your email, phone and link to a blog, GitHub, and portfolio if you have one. 
 
-**Summary:** This is a 2,000 character advertisement you can write for yourself! Describe how you can benefit a company here and again, be sure to add all your contact information (email, phone, etc.) to make it easy to get a hold of you! 
+**Summary:** This is a 2,000 character advertisement you can write for yourself! Describe how you can benefit a company here and, again, be sure to add all your contact information (email, phone, etc.) to make it easy to get a hold of you. This can be the same language as the “bio” that you create for the top of your resume (which you’ll work with your coach on!). *NOTE:* Only the first 250 characters will automatically display at first; the rest will be truncated until the user clicks on “Show more”...so plan the first 250 characters accordingly to capture and hold visitors’ attention.
 
-**Keywords:** Be Searchable on LinkedIn. Decide what employers will be searching for to find candidates like you, and then make sure you fill up your profile with those keywords. Your keyword is your job title, core function, or core skill. To come up high in LinkedIn searches for your keyword, add your keyword throughout your profile, but especially in these sections: Headline, Summary, Current Job title, Past job title. To get ideas on all the places to put your keyword, search and look at profiles of other professionals with skills like yours. 
+**Keywords:** Be searchable on LinkedIn. Decide what employers will be searching for to find candidates like you, and then make sure you fill up your profile with those keywords. Your keyword is your job title, core function, or core skill. To come up high in LinkedIn searches for your keyword, add your keyword throughout your profile, but especially in these sections: Headline, Summary, Current Job title, Past job title. To get ideas on all the places to put your keywords, search and look at profiles of other professionals with skills like yours or who are in the types of roles you desire.
 
 **LinkedIn Groups:** LinkedIn also has a forum-like feature on the platform: [LinkedIn groups](https://www.linkedin.com/groups/). These groups allow you to connect with likeminded people around a certain interest. Like Ruby on Rails or JavaScript. Groups are great for people who don’t live in big cities, but still want to network. Remember, always provide value to the group you’re in - don’t just promote yourself! 
 
-**Messaging Functions:**  On LinkedIn you can send direct messages to your connections. There is also a messaging feature called InMail. InMail allows you to connect with LinkedIn members you’re not connected to. However, only [premium](https://www.linkedin.com/premium/products) accounts have InMail capabilities.
+**Messaging Functions:**  On LinkedIn you can send direct messages to your 1st-degree connections. There is also a messaging feature called InMail. InMail allows you to message LinkedIn members you’re not connected to. However, only [premium](https://www.linkedin.com/premium/products) accounts have InMail capabilities.
+
+**Be Active/Post Content:** To truly leverage LinkedIn for all it can offer, make a concerted effort to be active on LinkedIn regularly; this includes things such as posting status updates (are you at a fascinating tech seminar or hackathon?), commenting on or sharing an interesting article that appeared in your News Feed, or re-posting your blog articles. After all, there’s no better place to have your blog articles seen than in the world’s largest and most influential professional networking platform, where potential employers and recruiters abound! PLUS, being regularly active will make you stand out as a serious, genuine, knowledgeable professional who is on their A-game.
+
 
 ## Basic LinkedIn Etiquette
 
@@ -79,13 +84,13 @@ Be careful about how many invitations you send out and to whom. If enough people
 
 Another tip to follow, especially when connecting with people you just met, is to add a custom message to the invitation. **Never use the default message that pops up when you're connecting with someone.** Something like this below is a good custom message. 
 
-  *Hey Brad,*
+  *Hi Brad,*
   
   *It was great to meet you at the RoR meetup! Hope to stay in touch.*
   
   *-Laurence*  
 
-However, if you'd like to make a cold outreach or connect with someone you never “met”, here’s a few ways to go about it:
+However, if you'd like to make a cold outreach or connect with someone you never “met”, here are a few ways to go about it:
 
 1. **Pay them a compliment.** Maybe you read their blog and love it. If that’s the case, let them know this in your invitation message. Say something like, “Hey! I follow your blog and love what you share. Wanted to stay up to date with you on LinkedIn as well.”
 
@@ -95,8 +100,13 @@ However, if you'd like to make a cold outreach or connect with someone you never
 
 The point is: whenever connecting with someone on LinkedIn, make sure you give them a reason *why* they should accept your invitation. If they are unsure who you are, and your invitation message is blank, the chances of them connecting with you is slim to none. Especially for influencers who are bombarded with invites everyday, you want to make sure yours stands out from the rest. 
 
-## Wrapping Up 
+## Final Thoughts 
 
 LinkedIn is *the* social media network for professionals. It’s paramount that you have a profile on the platform. Otherwise, you’ll look like a recluse in the eyes of hiring managers.
 
-LinkedIn has many features like the ability to apply for jobs, join groups, message others, and more. While you don’t have to take advantage of all LinkedIn has to offer, at least have a profile that is filled out and up-to-date. A polished LinkedIn presence can take you a long way. 
+LinkedIn has many features like the ability to apply for jobs, join groups, message others, and more. While you don’t have to take advantage of all LinkedIn has to offer, at least have a profile that is filled out and up-to-date. A polished LinkedIn presence can take you a long way.
+
+## Resources
+
+[The Complete Guide to the Perfect LinkedIn Profile](https://www.armstrongappointments.com/the-complete-guide-to-the-perfect-linkedin-profile/)
+[10 Ways to Use LinkedIn in Your Job Search](https://www.forbes.com/sites/lizryan/2014/05/19/ten-ways-to-use-linkedin-in-your-job-search/#2cbc2e17a3d2)
