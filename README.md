@@ -51,6 +51,7 @@ Here are a few things you want to avoid in your LinkedIn photo.
 * You out on the town in Vegas 
 
 ![Image](https://s3.amazonaws.com/learn-verified/CareersCurriculumLinkedInPics.jpg)
+
 *Courtesy of [Sandy Jones-Kaminski](https://www.linkedin.com/pulse/what-constitutes-all-star-linkedin-profile-sandy-jones-kaminski?trk=mp-reader-card)*
 
 The idea is to keep your LinkedIn photo identifiable and professional. Also, to come across as friendly and easy-to-work with. (No scowling!)  
@@ -109,4 +110,5 @@ LinkedIn has many features like the ability to apply for jobs, join groups, mess
 ## Resources
 
 [The Complete Guide to the Perfect LinkedIn Profile](https://www.armstrongappointments.com/the-complete-guide-to-the-perfect-linkedin-profile/)
+
 [10 Ways to Use LinkedIn in Your Job Search](https://www.forbes.com/sites/lizryan/2014/05/19/ten-ways-to-use-linkedin-in-your-job-search/#2cbc2e17a3d2)
