@@ -1,4 +1,4 @@
-## LinkedIn 
+# LinkedIn 
 
 LinkedIn is the first place an employer will go to evaluate you. When someone Googles your full name, the top result is generally your LinkedIn profile. (One exception is if you’re a celebrity, or have a common name.) Because of this, if you’re not on LinkedIn, you don’t “exist” in the eyes of a hiring manager or recruiter.   
 
@@ -31,7 +31,7 @@ So, having a complete profile is important. And here is what you need to do to a
 1. A profile photo
 2. Include your industry and location 
 3. Have an up-to-date headline listed, with keywords that will help recruiters find you
-4. Have an up-to-date current position listed, with a description (indicate that you are a full-time *student* in your field of study, if that is the case) 
+4. Have an up-to-date current position listed, with a description (indicate that you are a full-time *Student* in your field of study, if that is the case) 
 5. A summary section that describes a bit about your past and how you discovered your new caareer of choice. 
 6. At least two previous positions (with an impact/achievement-focused description of your responsibilities, just like on your resume)
 7. Your skills (with a minimum of 3) 
