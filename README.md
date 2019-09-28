@@ -32,7 +32,7 @@ So, having a complete profile is important. And here is what you need to do to a
 2. Include your industry and location 
 3. Have an up-to-date headline listed, with keywords that will help recruiters find you
 4. Have an up-to-date current position listed, with a description (indicate that you are a full-time *Student* in your field of study, if that is the case) 
-5. A summary section that describes a bit about your past and how you discovered your new caareer of choice. 
+5. A summary section that describes a bit about your past and how you discovered your new career of choice. 
 6. At least two previous positions (with an impact/achievement-focused description of your responsibilities, just like on your resume)
 7. Your skills (with a minimum of 3) 
 8. Education 
