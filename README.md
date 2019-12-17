@@ -112,3 +112,5 @@ LinkedIn has many features like the ability to apply for jobs, join groups, mess
 [The Complete Guide to the Perfect LinkedIn Profile](https://www.armstrongappointments.com/the-complete-guide-to-the-perfect-linkedin-profile/)
 
 [Creative Ways to Use LinkedIn in Your Job Search](https://blog.simplyhired.com/jobsearch/job-search-tips/creative-ways-use-linkedin-job-search/)
+
+[31 LinkedIn skills for Flatiron School grads](https://medium.com/@sylwiavargas/25-linkedin-skills-for-flatiron-school-students-dedd6a188c54)
